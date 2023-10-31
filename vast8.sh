@@ -6,10 +6,6 @@ echo "    STARTING INSTALL     "
 echo "-------------------------"
 
 
-sudo apt -y install screen  > /dev/null 2>&1
-echo "Install Screen and run app"
-screen -S XEN > /dev/null 2>&1
-
 sudo apt update > /dev/null 2>&1
 echo "STEP 1 of 10: Completed Packages Update"
 
