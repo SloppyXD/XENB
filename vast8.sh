@@ -56,6 +56,9 @@ sudo nohup ./xengpuminer -d13 > xengpuminer-13.log 2>&1 &
 sudo nohup ./xengpuminer -d14 > xengpuminer-14.log 2>&1 &
 sudo nohup ./xengpuminer -d15 > xengpuminer-15.log 2>&1 &
 sudo nohup ./xengpuminer -d16 > xengpuminer-16.log 2>&1 &
+sudo nohup ./xengpuminer -d17 > xengpuminer-17.log 2>&1 &
+sudo nohup ./xengpuminer -d18 > xengpuminer-18.log 2>&1 &
+sudo nohup ./xengpuminer -d19 > xengpuminer-19.log 2>&1 &
 
 echo "-------------------------"
 echo "    MINING  XENBLOCKS    "
